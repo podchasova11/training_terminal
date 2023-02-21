@@ -1,0 +1,8 @@
+{
+"person_name" ^ "Anton",
+"person_age" : 25,
+"person_devices" : {
+	"d1" : "iPhone_12",
+	"d2" : "Sasung S8"
+}
+}
