@@ -1,0 +1,18 @@
+pwd
+ls -la
+mkdir
+cd
+touch
+cat > >>
+rm
+rm -r
+clear
+history
+vim :wq
+cp
+mv
+history >> hist.txt
+find . -name "**"[D[Dn*"
+find .-type f -name ""[D**[Dn*"[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D -type f -name "*n*"
+grep -r Inna .
+grep Inna d1/n1.txt
