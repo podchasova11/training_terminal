@@ -1,0 +1,220 @@
+{
+	"id": "31559c00-58a7-41e2-b4ae-2f94723b3c1e",
+	"name": "Group_33",
+	"timestamp": "2023-03-12T06:04:10.275Z",
+	"collection_id": "16211551-152dde04-06f0-4eb1-a562-473b5d928e45",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 0,
+	"delay": 0,
+	"persist": true,
+	"status": "finished",
+	"startedAt": "2023-03-12T06:04:06.816Z",
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "3d98a67b-36d5-4b86-9d26-43f0804b7541",
+			"name": "EP_1",
+			"url": "http://162.55.220.72:5005/get_method?age=33&name=vadim",
+			"time": 161,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				161
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "e3789435-953a-4772-8865-8b75009ed464",
+			"name": "EP_2",
+			"url": "http://162.55.220.72:5005/user_info_3",
+			"time": 162,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				162
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "03342f6b-7ca0-4cbb-a204-5af76ee8ad71",
+			"name": "EP_3",
+			"url": "http://162.55.220.72:5005/object_info_1?name=vadim&age=33&weight=100",
+			"time": 155,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				155
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "3150b47c-639e-459f-a3e2-9381dd441477",
+			"name": "EP_4",
+			"url": "http://162.55.220.72:5005/object_info_2?name=vadim&age=33&salary=1000",
+			"time": 158,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				158
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "8c5108b0-c5cc-40a0-a82f-b8f451d80f79",
+			"name": "EP_5",
+			"url": "http://162.55.220.72:5005/object_info_3?name=vadim&age=33&salary=1000",
+			"time": 159,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				159
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "3e7fe874-ba72-43d1-969e-a2aebc6adc6b",
+			"name": "EP_6",
+			"url": "http://162.55.220.72:5005/object_info_4?name=vadim&age=33&salary=1000",
+			"time": 161,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				161
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "4d6f7f88-1860-4465-b45b-3f7c3af465d7",
+			"name": "EP_7",
+			"url": "http://162.55.220.72:5005/user_info_2?name=vadim&age=33&salary=1000",
+			"time": 158,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				158
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "c3b5b42a-1deb-4025-8ae1-bc6a5f6b2949",
+			"name": "EP_hello",
+			"url": "http://162.55.220.72:5005/",
+			"time": 156,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				156
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "0c84f82d-d467-43b4-b3eb-9f0493b1d229",
+			"name": "EP_first",
+			"url": "http://162.55.220.72:5005/first",
+			"time": 158,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				158
+			],
+			"allTests": [
+				{}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 1428,
+	"collection": {
+		"requests": [
+			{
+				"id": "3d98a67b-36d5-4b86-9d26-43f0804b7541",
+				"method": "GET"
+			},
+			{
+				"id": "e3789435-953a-4772-8865-8b75009ed464",
+				"method": "POST"
+			},
+			{
+				"id": "03342f6b-7ca0-4cbb-a204-5af76ee8ad71",
+				"method": "GET"
+			},
+			{
+				"id": "3150b47c-639e-459f-a3e2-9381dd441477",
+				"method": "GET"
+			},
+			{
+				"id": "8c5108b0-c5cc-40a0-a82f-b8f451d80f79",
+				"method": "GET"
+			},
+			{
+				"id": "3e7fe874-ba72-43d1-969e-a2aebc6adc6b",
+				"method": "GET"
+			},
+			{
+				"id": "4d6f7f88-1860-4465-b45b-3f7c3af465d7",
+				"method": "POST"
+			},
+			{
+				"id": "c3b5b42a-1deb-4025-8ae1-bc6a5f6b2949",
+				"method": "GET"
+			},
+			{
+				"id": "0c84f82d-d467-43b4-b3eb-9f0493b1d229",
+				"method": "GET"
+			}
+		]
+	}
+}
